@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;MAI THANH SON;;;
+FN:MAI THANH SON
+ORG:FIRE PROTECTION TECHNICAL SERVICES (FPTS)
+TITLE:Technical Department
+TEL;TYPE=CELL,VOICE:+84945365114
+EMAIL;TYPE=WORK,INTERNET:sonmt@fpts.info
+URL:https://www.fpts.info
+ADR;TYPE=WORK:;;72/11 Nguyen Van Luong Str., Go Vap Ward, Ho Chi Minh City, Vietnam;;;;
+END:VCARD
